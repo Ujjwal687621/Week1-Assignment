@@ -112,18 +112,6 @@ aside {
     font-size: 50px;
 }
 
-.footerImage{
-    display:inline;
-    height: 80px;
-    font-family: monospace;
-    font-size: 20px;
-    color:green;
-    position: relative;
-    padding: 10px;
-    background-color: blanchedalmond;
-    width: 100%;
-    float:left;
-}
 footer{
     color:darkcyan;
     text-align: center;
